@@ -47,8 +47,8 @@ h1, h2, h3, h4, h5, h6 {
 
     <div class="w3-col m6 w3-padding-large">
       <h1 class="w3-center">About food</h1><br>
-      <h5 class="w3-center">Tradition since 2022</h5>
-      <p class="w3-large">The Catering was founded in Douala by Mr. devops foods  in lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.We only use <span class="w3-tag w3-light-grey">seasonal</span> ingredients.</p>
+      <h5 class="w3-center">Tradition since 1976</h5>
+      <p class="w3-large">Today , i learned how to order a mcdonals at my favorite restaurant in Bafang and i like it in lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.We only use <span class="w3-tag w3-light-grey">seasonal</span> ingredients.</p>
       <p class="w3-large w3-text-grey w3-hide-medium">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
   </div>
@@ -58,17 +58,17 @@ h1, h2, h3, h4, h5, h6 {
   <!-- Menu Section -->
   <div class="w3-row w3-padding-64" id="menu">
     <div class="w3-col l6 w3-padding-large">
-      <h1 class="w3-center">Our Menu</h1><br>
+      <h1 class="w3-center">$$$$$Our Menu$$$$$</h1><br>
       <h4>Bread Basket</h4>
-      <p class="w3-text-grey">Assortment of fresh baked fruit breads and muffins 5.50</p><br>
+      <p class="w3-text-grey">&&&&&&& Assortment of fresh baked fruit breads and muffins 5.50</p><br>
     
-      <h4>Honey Almond Granola with Fruits</h4>
+      <h4>@@@@@@@@Honey Almond Granola with Fruits@@@@@@@</h4>
       <p class="w3-text-grey">Natural cereal of honey toasted oats, raisins, almonds and dates 7.00</p><br>
     
-      <h4>Belgian Waffle</h4>
+      <h4>!!!!Belgian Waffle!!!!!!</h4>
       <p class="w3-text-grey">Vanilla flavored batter with malted flour 7.50</p><br>
     
-      <h4>Scrambled eggs</h4>
+      <h4>$$#%%%Scrambled eggs@@!!####</h4>
       <p class="w3-text-grey">Scrambled eggs, roasted red pepper and garlic, with green onions 7.50</p><br>
     
       <h4>Blueberry Pancakes</h4>
@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
     <h1>Contact</h1><br>
     <p>We offer full-service catering for any event, large or small. We understand your needs and we will cater the food to satisfy the biggerst criteria of them all, both look and taste. Do not hesitate to contact us.</p>
     <p class="w3-text-blue-grey w3-large"><b>6441 alan linton fd 2980 </b></p>
-    <p>You can also contact us by phone 240-78484-8484 or email francknga@catering.com, or you can send us a message here:</p>
+    <p>You can also contact us by phone 3409890349848 or email francknga@catering.com, or you can send us a message here:</p>
     <form action="/action_page.php" target="_blank">
       <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
       <p><input class="w3-input w3-padding-16" type="number" placeholder="How many people" required name="People"></p>
